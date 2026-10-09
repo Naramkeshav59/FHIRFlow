@@ -1,0 +1,7 @@
+duckdb
+pandas
+pyarrow
+requests
+groq
+python-dotenv
+pytest
